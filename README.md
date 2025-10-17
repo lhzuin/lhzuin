@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170">
 
-I’m a second-year student in the Cycle Ingénieur at [École Polytechnique](https://www.polytechnique.edu/), pursuing a Master’s in Computer Science with a focus on Computer Vision and AI. Prior to this, I studied Computer Engineering for four years at the Instituto Tecnológico de Aeronáutica ([ITA](https://www.ita.br/)) in Brazil.
+I’m a third-year student in the Cycle Ingénieur at [École Polytechnique](https://www.polytechnique.edu/), pursuing a Master’s in Computer Science with a focus on AI. Prior to this, I studied Computer Engineering for four years at the Instituto Tecnológico de Aeronáutica ([ITA](https://www.ita.br/)) in Brazil.
 
 I’m passionate about technology, entrepreneurship, and creating impactful solutions. With a solid background in software engineering, data engineering, and AI, I focus on innovation and societal contributions through technology. I consider myself an analytical leader with experience in data-driven projects.
 
