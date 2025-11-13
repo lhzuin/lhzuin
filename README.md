@@ -8,6 +8,14 @@ I’m passionate about technology, entrepreneurship, and creating impactful solu
 
 ## 💼 Work Experience in Tech
 
+### Huawei — AI Algorithms Intern (Jun 2025 – Sep 2025)
+
+- Large-Scale RL for LLMs: Contributed to GRPO-based training and optimization for large language models, including Mixture-of-Experts architectures.
+- Systems & Infrastructure: Built an asynchronous, decoupled execution layer overlapping generation with gradient/reward computation, enabling multi-instance and cross–data center scaling for faster training.
+- Performance & Parallelism: Implemented a zero-bubble pipeline parallelism schedule in the internal training stack, improving end-to-end throughput and hardware utilization.
+- Tech Stack: Worked with PyTorch, Megatron, Mindspeed, Ray, and Ascend hardware in a high-performance computing environment.
+
+
 ### DEEP ESG — Intern/Data and Software Engineer (Jan 2023 – May 2024)
 
 - Team Leadership: Led a small processing and data team at DEEP, a startup enhancing capitalism through better corporate practices in environmental and social issues.
@@ -25,7 +33,7 @@ I’m passionate about technology, entrepreneurship, and creating impactful solu
 ### Programming Languages & Technologies
 
 - Languages: Python, C/C++, Java, JavaScript, MATLAB
-- Frameworks & Libraries: Pandas, Spark, FastAPI, Keras, Scikit-learn, Numpy, etc
+- Frameworks & Libraries: PyTorch, Megatron, Pandas, Spark, FastAPI, Keras, Scikit-learn, Numpy, etc
 - Databases: SQL, SQL and database development, PostgreSQL
 - Tools: Git, Google Cloud Platform (GCP), Microsoft Office Suite, Google Suite (Advanced Level with Macros, VBA, Google Script)
 
